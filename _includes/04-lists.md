@@ -1,3 +1,3 @@
-[] list 1
-[] bla bla bla
-[] anothe bla bla bla
+1. list 1
+2. bla bla bla
+3. anothe bla bla bla
